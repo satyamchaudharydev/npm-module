@@ -1,0 +1,3 @@
+const surprise = require('./')
+
+surprise()
