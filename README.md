@@ -4,14 +4,14 @@ prints "Hello World" to console.
 
 ### Installation
 
-`npm install --save hello-world-skc`
+`npm install --save hello-world-satyam`
 
 ### Usage
 
 ```javascript
-const printSurprise = require('hello-world-skc')
+const printMagic = require('hello-world-satyam')
 
-printSurprise() // Hello World
+printMagic() // Hello World
 ```
 
 ### Why ?
